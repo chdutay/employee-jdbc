@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.javainuse</groupId>
-	<artifactId>employe-jdbc</artifactId>
+	<artifactId>employee-jdbc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>employe-jdbc</name>
+	<name>employee-jdbc</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
